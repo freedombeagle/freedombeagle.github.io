@@ -39,6 +39,8 @@ The fallout has been fast. More than 80 cities have canceled or paused their Flo
 
 Right now, whether a camera network like Flock's counts as a Fourth Amendment "search" depends on where you live, which judge you draw, and how big the network gets. Nothing about that is settled — the Norfolk appeal is pending, *Chatrie* just handed civil-liberties lawyers a fresh precedent to build on, and state legislatures are moving faster than Congress on the data-sharing question. What's not in dispute is the scale: this is a live surveillance network, built without a warrant requirement, currently being queried by more agencies than most city councils realized when they signed the contract.
 
+And if you want to see the network for yourself: go look at **[DeFlock](https://deflock.org/)** — an open-source, crowdsourced map of license plate readers built by developer Will Freeman. Ordinary people spot the cameras, report them, and the map grows; it has already charted roughly half of Flock's 100,000-camera network, plus readers from other vendors. Punch in your own neighborhood and count them. That's not paranoia — that's a public record of public infrastructure, assembled by the people it points at.
+
 We'll keep tracking this one — the Fourth Circuit appeal, and any state legislation that lands, will get their own follow-ups.
 
 ---
@@ -52,3 +54,5 @@ We'll keep tracking this one — the Fourth Circuit appeal, and any state legisl
 - [Tech Times — Flock Safety Crosses 100,000 Cameras as 53 Cities Cancel](https://www.techtimes.com/articles/319317/20260629/flock-safety-crosses-100000-cameras-53-cities-cancel-over-unauthorized-federal-data-access.htm)
 - [NPR — Why some cities are canceling Flock license plate reader contracts](https://www.npr.org/2026/02/17/nx-s1-5612825/flock-contracts-canceled-immigration-survillance-concerns)
 - [ACLU — Fight Creepy ALPR Cameras](https://www.aclu.org/campaigns-initiatives/get-the-flock-out)
+- [DeFlock — crowdsourced map of ALPR locations](https://deflock.org/)
+- [404 Media — The Open Source Project DeFlock Is Mapping License Plate Surveillance Cameras All Over the World](https://www.404media.co/the-open-source-project-deflock-is-mapping-license-plate-surveillance-cameras-all-over-the-world/)
