@@ -1,50 +1,42 @@
 ---
-title: "Pulled Over? Here's Exactly What You Have to Do — and What You Don't."
+title: "What the Law Actually Says About Traffic Stops"
 date: 2026-07-18
 section: Know Your Rights
-dek: "What you must show, what you can refuse, and the one sentence that protects you most. A plain-language guide to your rights at a traffic stop — no law degree required."
+dek: "What drivers are legally required to do, what the Constitution says they can refuse, and the time limits courts have put on police stops — the rulings, in plain English."
 ---
 
-You see the lights in the mirror. Heart rate up. Here's the thing to remember before anything else: **a traffic stop is a legal event with rules on both sides.** You have obligations. So do they. Knowing the difference is the whole game.
+A traffic stop is a legal event with rules on both sides — most of them set by Supreme Court rulings that most people have never heard of. Here's what those rulings actually say. This is reporting on the law as written and ruled, not legal advice for any specific situation; state laws vary, and specific situations belong with a lawyer.
 
-This is general information about your constitutional rights, not legal advice for a specific situation — details vary by state, and if you're facing charges, talk to a lawyer.
+## What the law requires of drivers
 
-## What you MUST do
+- **Producing license, registration, and proof of insurance.** Every state requires drivers to show these when stopped. This obligation attaches to driving itself.
+- **Exiting the vehicle when ordered.** In *Pennsylvania v. Mimms* (1977), the Supreme Court held that officers may order the driver out of a lawfully stopped vehicle. *Maryland v. Wilson* (1997) extended that authority to passengers.
+- **Not lying to police.** Providing false information to law enforcement is a crime in every state. Remaining silent is constitutionally protected; lying is not.
 
-- **Pull over promptly and safely.** Signal, slow down, stop somewhere safe. Hands on the wheel.
-- **Show your license, registration, and proof of insurance** when asked. If you're the driver, every state requires this. Tell the officer before reaching for them: "My wallet is in my back pocket — okay if I grab it?"
-- **Step out of the car if ordered to.** The Supreme Court settled this in *Pennsylvania v. Mimms* (1977) — an officer can order the driver (and under *Maryland v. Wilson*, passengers) out of a stopped vehicle. Arguing this one roadside is a loser.
-- **Don't lie.** Lying to police can be its own crime. Staying silent is legal; lying is not.
+## What the Constitution does not require
 
-## What you DON'T have to do
+- **Answering questions.** The Fifth Amendment's protection against self-incrimination applies during traffic stops. Questions like "Do you know how fast you were going?" or "Have you been drinking?" carry no legal obligation to answer, and courts have held that silence itself is not grounds for arrest.
+- **Consenting to a search.** The Fourth Amendment makes an officer's "Mind if I look in the car?" a request, not an order. Consent is one of the main legal doorways to a warrantless search — and evidence from a search later ruled unlawful can be suppressed in court under the exclusionary rule. The ACLU's published guidance notes that refusing consent verbally, without physical resistance, is what preserves that challenge.
+- **Unlocking a phone.** In *Riley v. California* (2014), a unanimous Supreme Court held that police generally need a warrant to search the digital contents of a phone, even after an arrest.
+- **Passenger identification, in most states.** Requirements vary by state, but in most, a passenger not suspected of a crime is under no general obligation to produce ID.
 
-- **You don't have to answer questions.** "Where are you headed?" "Do you know how fast you were going?" "Been drinking tonight?" — you can politely decline all of it. Say: *"I'm choosing to remain silent."* The Fifth Amendment doesn't switch off because you're in a car.
-- **You don't have to consent to a search.** This is the big one. If an officer asks "Mind if I take a look in the car?" — that's a request, and the answer can be: *"I don't consent to searches."* Say it calmly, say it clearly, and don't physically resist if they search anyway. If the search was illegal, the place to win that fight is in court, where evidence from an unlawful search can be thrown out — not on the shoulder of the highway.
-- **You don't have to unlock your phone.** Under *Riley v. California* (2014), police generally need a warrant to search your phone. Don't hand it over unlocked, and don't consent.
-- **Passengers don't have to show ID in most situations.** Rules vary by state, but a passenger who isn't suspected of anything can generally ask: *"Am I free to go?"*
+## The clock courts put on stops
 
-## The one sentence that does the most work
+In *Rodriguez v. United States* (2015), the Supreme Court held that a traffic stop may last only as long as needed to address the violation that justified it. Extending a completed stop — even a few minutes, even to wait for a drug-sniffing dog — is unconstitutional without independent reasonable suspicion. The legal significance of a driver asking "Am I being detained, or am I free to go?" is that it establishes, on the record, whether the detention is ongoing — a fact that matters in any later challenge.
 
-> **"Am I being detained, or am I free to go?"**
+## Recording
 
-A stop can't legally last forever. Under *Rodriguez v. United States* (2015), police can't drag out a completed traffic stop to go fishing — even a few extra minutes to wait for a drug dog is unconstitutional without separate suspicion. Asking this question politely puts the clock on the record. If the answer is "you're free to go" — go.
+Every federal circuit court to rule on the question has held that recording police officers performing their public duties is protected by the First Amendment, subject to reasonable limits on interference. No federal appeals court has held otherwise.
 
-## Yes, you can record
+## What the case law says about resisting
 
-Every federal appeals court to rule on it has held that recording police performing public duties is protected by the First Amendment. Announce it if you like ("I'm recording for both of us"), keep the phone where it isn't interfering, and don't let go of it into anyone's hands.
+Courts across the country have consistently held that physical resistance — even to a search or arrest later ruled unlawful — generates separate criminal liability. The legal remedy for an unconstitutional search is suppression of the evidence and civil litigation afterward; there is no roadside remedy recognized in law. Civil-liberties organizations' published guidance is uniform on this point: objections preserved verbally survive to be litigated, and physical resistance does not.
 
-## The stuff that gets people in trouble
+## The documentation that matters in later challenges
 
-- **Arguing the ticket roadside.** The officer isn't the judge. Take the ticket; fight it in court.
-- **Physically resisting — anything.** Even an unlawful search or arrest. Resisting converts a case you might win into a case you'll lose, or worse. Comply physically, object verbally, and document everything.
-- **Talking too much.** Nobody has ever talked their way out of a stop with the fourth sentence. Plenty have talked their way into charges.
-- **Sudden movements.** Reaching under seats, into pockets, into the glovebox unannounced. Narrate your movements. Keep your hands visible.
+Complaints and lawsuits over traffic stops turn on records: badge numbers, patrol car numbers, time, location, and what was said. Civil-liberties organizations that litigate these cases — the ACLU chief among them — solicit exactly this documentation. So do we: tips@freedombeagle.com.
 
-## After the stop
-
-Write down everything while it's fresh: badge numbers, patrol car number, time, location, what was said. If you believe your rights were violated, that record is gold — file a complaint, talk to a lawyer, or send it to a civil-liberties organization. Or to us: tips@freedombeagle.com.
-
-One more thing, since we've been [covering the cameras](/freedom-beagle/articles/flock-cameras-fourth-amendment.html): none of the rights above depend on you having "nothing to hide." The Fourth and Fifth Amendments aren't loopholes for the guilty — they're the operating manual for a free country. Use them like you own them. You do.
+One connection to [our camera coverage](/freedom-beagle/articles/flock-cameras-fourth-amendment.html): none of the protections above are conditioned on innocence. The Fourth and Fifth Amendments, as the courts have interpreted them, apply to everyone — that's not an opinion, it's the operating design of the document.
 
 ---
 
@@ -53,6 +45,6 @@ One more thing, since we've been [covering the cameras](/freedom-beagle/articles
 - [ACLU — Know Your Rights: Stopped by Police](https://www.aclu.org/know-your-rights/stopped-by-police)
 - [Pennsylvania v. Mimms (1977)](https://supreme.justia.com/cases/federal/us/434/106/) — officer may order driver out of vehicle
 - [Maryland v. Wilson (1997)](https://supreme.justia.com/cases/federal/us/519/408/) — extends Mimms to passengers
-- [Rodriguez v. United States (2015)](https://supreme.justia.com/cases/federal/us/575/348/) — stop can't be prolonged without independent suspicion
+- [Rodriguez v. United States (2015)](https://supreme.justia.com/cases/federal/us/575/348/) — stop may not be prolonged without independent suspicion
 - [Riley v. California (2014)](https://supreme.justia.com/cases/federal/us/573/373/) — phone searches generally require a warrant
 - [EFF — Your Right to Record Police](https://www.eff.org/issues/right-to-record)
