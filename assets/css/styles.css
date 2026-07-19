@@ -329,26 +329,32 @@ img { max-width: 100%; display: block; }
 /* ---- Grievance Audit scored card ---- */
 .scorecard {
   margin: 36px 0;
-  border-top: 2px solid var(--ink);
+  border-top: 3px solid var(--ink);
 }
 .scorecard__row {
   display: grid;
-  grid-template-columns: 92px 1fr;
-  gap: 22px;
-  padding: 24px 4px;
+  grid-template-columns: 84px 1fr;
+  gap: 24px;
+  padding: 26px 4px;
   border-bottom: 1px solid var(--rule);
   align-items: start;
 }
 .scorecard__grade {
+  width: 84px;
+  height: 84px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: var(--ink);
+  color: var(--paper);
   font-family: 'Libre Caslon Display', Georgia, serif;
-  font-size: 54px;
+  font-weight: 700;
+  font-size: 44px;
   line-height: 1;
-  text-align: center;
-  color: var(--ink);
   font-variant-numeric: tabular-nums;
-  padding-top: 4px;
+  border-radius: 2px;
 }
-.scorecard__grade--low { color: var(--stamp); }
+.scorecard__grade--low { background: var(--stamp); }
 .scorecard__head {
   display: flex;
   flex-wrap: wrap;
@@ -436,8 +442,8 @@ img { max-width: 100%; display: block; }
   margin: 18px auto 0;
 }
 @media (max-width: 480px) {
-  .scorecard__row { grid-template-columns: 68px 1fr; gap: 16px; }
-  .scorecard__grade { font-size: 42px; }
+  .scorecard__row { grid-template-columns: 64px 1fr; gap: 16px; }
+  .scorecard__grade { width: 64px; height: 64px; font-size: 34px; }
 }
 .article__sources {
   margin-top: 48px;
