@@ -23,7 +23,7 @@ These are not aspirations. They are the rules every piece on this site is writte
 
 1. **Sourced method.** Every factual claim links to a document, ruling, filing, dataset, or audit log. We will say a thing plainly and sometimes sharply — but we show our work, every time. A claim without a receipt does not run.
 
-2. **Facts, not advice.** We report what the law says, what courts have ruled, and what named organizations recommend — always attributed. We do not tell you what to do, and we do not give legal advice. Our "Know Your Rights" pieces report on rulings; they are not instructions, and they are not a substitute for a lawyer.
+2. **Facts, not advice.** We report what the law says, what courts have ruled, and what named organizations recommend — always attributed. We do not tell you what to do, and we do not give legal advice. Our pieces about your rights report on rulings; they are not instructions, and they are not a substitute for a lawyer.
 
 3. **Formal citations.** Legal claims carry their formal reference in the text — case reporter citations (e.g., *Riley v. California*, 573 U.S. 373 (2014)), statute sections (e.g., 18 U.S.C. § 1001), and constitutional provisions (e.g., U.S. Const. amend. IV) — with full, linked citations listed at the foot of every legal piece.
 

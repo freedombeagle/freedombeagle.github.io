@@ -1,7 +1,7 @@
 ---
 title: "What the Law Actually Says About Traffic Stops"
 date: 2026-07-18
-section: Know Your Rights
+section: Field Notes
 dek: "What drivers are legally required to do, what the Constitution says they can refuse, and the time limits courts have put on police stops — the rulings, in plain English."
 ---
 

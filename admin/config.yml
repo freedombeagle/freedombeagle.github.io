@@ -40,7 +40,7 @@ collections:
         options:
           - On the Scent
           - Grievance Audit
-          - Know Your Rights
+          - Risk of Rights
           - Field Notes
         default: Field Notes
       - name: dek
