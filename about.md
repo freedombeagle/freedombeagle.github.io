@@ -38,7 +38,7 @@ We will make mistakes. When a journal's entire value rests on being right, the h
 - **When we learn of a material error, we correct it promptly** and note the correction, with its date, at the bottom of the affected article.
 - **Substantive corrections are also logged below,** permanently, so the record of what we got wrong and when we fixed it is public.
 - **Figures drawn from live, crowdsourced, or point-in-time datasets** (for example, camera counts from DeFlock) are labeled with the date they were retrieved. These numbers change over time; a later, different figure is an update, not necessarily a correction.
-- **To report an error,** email **corrections@freedombeagle.com** or **tips@freedombeagle.com** with the article and the specific claim. We read every one.
+- **A public channel for reporting errors is being established** and will be posted here once it is live. We would rather show no contact address than publish one that does not yet work — the same standard we hold our reporting to.
 
 ### Corrections log
 
@@ -54,7 +54,6 @@ Freedom Beagle publishes under a unified masthead. Reported pieces carry the byl
 
 ## Contact
 
-- **Tips:** tips@freedombeagle.com
-- **Corrections:** corrections@freedombeagle.com
+A public contact address for tips and corrections is being set up and will be posted here once it is live. Until then, this section is intentionally left without an address rather than list one that would only bounce — which is exactly the standard we hold our reporting to: nothing goes on this site that isn't real.
 
-If you have a story that deserves a nose on it, the door is open.
+If you have a story that deserves a nose on it, hold onto it. The door is opening.

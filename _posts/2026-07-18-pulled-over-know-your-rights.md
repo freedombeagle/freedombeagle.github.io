@@ -34,7 +34,7 @@ Courts across the country have consistently held that physical resistance — ev
 
 ## The documentation that matters in later challenges
 
-Complaints and lawsuits over traffic stops turn on records: badge numbers, patrol car numbers, time, location, and what was said. Civil-liberties organizations that litigate these cases — the ACLU chief among them — solicit exactly this documentation. So do we: tips@freedombeagle.com.
+Complaints and lawsuits over traffic stops turn on records: badge numbers, patrol car numbers, time, location, and what was said. Civil-liberties organizations that litigate these cases — the ACLU chief among them — solicit exactly this documentation.
 
 One connection to [our camera coverage](/freedom-beagle/articles/flock-cameras-fourth-amendment.html): none of the protections above are conditioned on innocence. The Fourth and Fifth Amendments, as the courts have interpreted them, apply to everyone — that's not an opinion, it's the operating design of the document.
 
