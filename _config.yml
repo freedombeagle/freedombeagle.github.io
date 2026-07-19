@@ -5,6 +5,10 @@ baseurl: "/freedom-beagle"
 
 permalink: /articles/:title:output_ext
 
+# Build posts even if their timestamp is ahead of the build server's clock.
+# Without this, same-day posts with later-hour timestamps get skipped as "future".
+future: true
+
 defaults:
   - scope:
       path: ""
