@@ -1,5 +1,5 @@
 ---
-title: "Grievance Audit No. 2: 'Swarms of Officers.' They Warned Us. Then We Built 430 Agencies Nobody Can Count."
+title: "Grievance Audit No. 2: 'Swarms of Officers.' They Warned Us. Then We Built a Government That Can't Count Its Own Agencies."
 date: 2026-07-18 14:00:00
 section: Grievance Audit
 dek: "In 1776 we declared independence over a king who erected offices and loosed officers to 'eat out' the people's substance. Today the government can't count its own agencies, printed 106,109 pages of new rules in a single year, and issues roughly 19 agency rules for every law Congress passes. Entry No. 2 in the series."
