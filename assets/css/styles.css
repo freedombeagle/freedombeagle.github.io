@@ -165,6 +165,18 @@ img { max-width: 100%; display: block; }
   max-width: 920px; margin: 0 auto;
 }
 .site-header__crest { width: 34px; height: 34px; flex-shrink: 0; }
+
+/* Theme-aware crest: black-on-cream in light mode, white-on-black in dark mode.
+   Respects both the OS setting (prefers-color-scheme) and the manual toggle (data-theme). */
+.crest--dark { display: none; }
+@media (prefers-color-scheme: dark) {
+  .crest--light { display: none; }
+  .crest--dark { display: block; }
+}
+:root[data-theme="light"] .crest--light { display: block; }
+:root[data-theme="light"] .crest--dark { display: none; }
+:root[data-theme="dark"] .crest--light { display: none; }
+:root[data-theme="dark"] .crest--dark { display: block; }
 .site-header__word {
   font-family: 'Libre Caslon Display', Georgia, serif;
   font-size: 22px; text-decoration: none; white-space: nowrap;
