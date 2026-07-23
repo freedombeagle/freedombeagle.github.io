@@ -53,7 +53,7 @@ Neither reading is wrong. They're describing two different things: what the Cons
 
 ## Grading the office
 
-The 58 at the top of this piece is not an average of anything, and it is not a grade on any individual officeholder — that comes next. It is the journal's editorial judgment of the office's *design*, broken into the four questions this piece has actually documented above. Same 0–100 scale as every Capitol Audit entry: 85+ is a strong design with no red flags, 65–84 is solid with real but limited questions, 45–64 is mixed — genuine structural gaps alongside a genuine working check, 25–44 is a weak design with major concerns, under 25 is functionally unaccountable.
+It is the journal's editorial judgment of the office's *design*, broken into the four questions this piece has actually documented above. Same 0–100 scale as every Capitol Audit entry: 85+ is a strong design with no red flags, 65–84 is solid with real but limited questions, 45–64 is mixed — genuine structural gaps alongside a genuine working check, 25–44 is a weak design with major concerns, under 25 is functionally unaccountable.
 
 <div class="scorecard" markdown="0">
 
