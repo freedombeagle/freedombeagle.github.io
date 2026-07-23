@@ -13,7 +13,7 @@
 
 <div class="wrap">
   <article class="article">
-    <p class="article__kicker">{{ page.section }}</p>
+    <p class="article__kicker">{{ page.section }}{% if page.grade %}<span class="teaser__grade {% if page.grade >= 65 %}teaser__grade--high{% elsif page.grade < 45 %}teaser__grade--low{% endif %}">{{ page.grade }}</span>{% endif %}</p>
     <h1 class="article__headline">{{ page.title }}</h1>
     <p class="article__byline">FREEDOM BEAGLE STAFF &middot; {{ page.date | date: "%B %-d, %Y" | upcase }}</p>
 
