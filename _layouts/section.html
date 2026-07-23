@@ -26,7 +26,7 @@
     {% endcomment %}
     {% if page.section == "On the Scent" %}
       {% assign visible_posts = section_posts | where_exp: "post", "post.series == nil" %}
-      {% for s in site.data.series %}
+      {% for s in site.data.series.series %}
         {% if s.status != "complete" %}
           {% assign series_batch = section_posts | where: "series", s.slug %}
           {% assign visible_posts = visible_posts | concat: series_batch %}
@@ -52,7 +52,7 @@
 
     {% if page.section == "On the Scent" %}
       {% assign completed_count = 0 %}
-      {% for s in site.data.series %}{% if s.status == "complete" %}{% assign completed_count = completed_count | plus: 1 %}{% endif %}{% endfor %}
+      {% for s in site.data.series.series %}{% if s.status == "complete" %}{% assign completed_count = completed_count | plus: 1 %}{% endif %}{% endfor %}
       {% if completed_count > 0 %}
         <p class="section-page__archive-note">Looking for a finished investigation? Completed series have moved to the <a href="{{ '/series.html' | relative_url }}">Series</a> archive.</p>
       {% endif %}

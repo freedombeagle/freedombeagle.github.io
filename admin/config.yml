@@ -61,3 +61,36 @@ collections:
         label: Article
         widget: markdown
         hint: "The article itself. Use the image button to add photos. For video, paste a YouTube/Rumble embed code."
+
+  - name: series_settings
+    label: Site Settings
+    files:
+      - name: series
+        label: Series
+        file: _data/series.yml
+        description: "Register each On the Scent series here so it can be tagged on articles. Set Status to \"Complete\" once the investigation is finished — its articles move from the On the Scent feed to the Series archive page automatically."
+        fields:
+          - name: series
+            label: Series
+            widget: list
+            summary: "{{name}} ({{status}})"
+            fields:
+              - name: name
+                label: Series name
+                widget: string
+              - name: slug
+                label: Slug
+                widget: string
+                hint: "Lowercase, hyphenated. Must match the \"Series\" field entered on each article (e.g. flock-cameras)."
+              - name: status
+                label: Status
+                widget: select
+                options:
+                  - { label: "Active — still publishing new parts", value: active }
+                  - { label: "Complete — move to the Series archive", value: complete }
+                default: active
+              - name: description
+                label: Description
+                widget: text
+                required: false
+                hint: "One sentence shown at the top of this series on the Series archive page."

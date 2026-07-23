@@ -16,7 +16,7 @@
     <h1 class="section-page__title">{{ page.title }}</h1>
     <p class="section-page__desc">{{ page.description }}</p>
 
-    {% assign completed_series = site.data.series | where: "status", "complete" %}
+    {% assign completed_series = site.data.series.series | where: "status", "complete" %}
 
     {% if completed_series.size > 0 %}
       <label class="series-jump" for="series-jump-select">
