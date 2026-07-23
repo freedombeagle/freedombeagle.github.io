@@ -64,10 +64,10 @@ The office is one thing. The nine people who have actually run it over the past 
 <div class="scorecard" markdown="0">
 
 <div class="scorecard__row">
-<div class="scorecard__grade">70</div>
+<div class="scorecard__grade scorecard__grade--high">70</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">1</span><h3 class="scorecard__title">Murray Zweben</h3><span class="scorecard__band">Senate Parliamentarian, 1974–1981</span></div>
-<div class="scorecard__meter"><span style="width:70%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:70%"></span></div>
 <p class="scorecard__judgment">Served through Mike Mansfield's Senate majority and left in 1981 when Republicans took control — an orderly, non-forced transition, later honored with the title "Parliamentarian Emeritus" by Senate resolution. No documented controversy or bias accusation on record. Untested by a cross-partisan retention, since his tenure ended exactly at the change of control rather than surviving it.</p>
 </div>
 </div>
@@ -100,19 +100,19 @@ The office is one thing. The nine people who have actually run it over the past 
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">68</div>
+<div class="scorecard__grade scorecard__grade--high">68</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">5</span><h3 class="scorecard__title">William Holmes Brown</h3><span class="scorecard__band">House Parliamentarian, 1974–1994</span></div>
-<div class="scorecard__meter"><span style="width:68%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:68%"></span></div>
 <p class="scorecard__judgment">Twenty years in the post under four consecutive Democratic Speakers — Albert, O'Neill, Wright, and Foley. No documented controversy or bias accusation on record, but the tenure was never tested by a change of House party control, so there's no cross-partisan retention data point either way.</p>
 </div>
 </div>
 
 <div class="scorecard__row">
-<div class="scorecard__grade">70</div>
+<div class="scorecard__grade scorecard__grade--high">70</div>
 <div class="scorecard__body">
 <div class="scorecard__head"><span class="scorecard__num">6</span><h3 class="scorecard__title">Charlie Johnson</h3><span class="scorecard__band">House Parliamentarian, 1994–2004</span></div>
-<div class="scorecard__meter"><span style="width:70%"></span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:70%"></span></div>
 <p class="scorecard__judgment">Took the post as Newt Gingrich became Speaker in the 1994 Republican wave and served a full decade, retiring in 2004 to formal honors from House leadership. No documented controversy on record. Like Brown, his tenure sat entirely within one party's House majority, so it offers no cross-partisan retention test.</p>
 </div>
 </div>
