@@ -7,9 +7,7 @@ grade: 58
 dek: "No one elects the Senate Parliamentarian. No one elects the House Parliamentarian. Both can be fired without cause by a single person, and one ruling from either desk can strip a policy out of a bill that a majority of Congress already voted to pass. We rate the office against Article I — then grade all nine people who've actually held the job over the last 50 years."
 ---
 
-*This is the second entry in the Capitol Audit series, which began with a scorecard grading Congress's leadership. This entry turns to a different kind of subject: not a person, but an office — the parliamentarian — and whether the way that office is filled, fired, and used lines up with the Constitution it operates under.*
-
-**How the 58 at the top of this piece is graded:** it is the journal's editorial judgment of the *office's design*, not an average of anything and not a grade on any individual officeholder. It weighs four things this piece documents in full below: whether the office has an actual textual or constitutional basis (it doesn't — it's chamber custom); whether the appointment carries any independent qualification standard (it doesn't); whether the officeholder has any protection from at-will removal (none — the 2001 Dove firing proves it); and whether a real, usable check exists even so (yes — a simple-majority override, available at all times, that elected majorities have simply chosen not to use). Same 0–100 scale as every Capitol Audit entry: 85+ is a strong design with no red flags, 65–84 is solid with real but limited questions, 45–64 is mixed — genuine structural gaps alongside a genuine working check, 25–44 is a weak design with major concerns, under 25 is functionally unaccountable. The office lands at 58 because the working check is real but the guardrails around it are almost entirely optional.
+*This is the second entry in the Capitol Audit series, which began with a scorecard grading Congress's leadership. This entry turns to a different kind of subject: not a person, but an office — the parliamentarian — and whether the way that office is filled, fired, and used lines up with the Constitution it operates under. It closes with two scorecards: one grading the office's design, one grading the nine people who've actually run it.*
 
 ## The office that isn't in the Constitution
 
@@ -52,6 +50,58 @@ The case for why that's still compatible with representative government is the o
 The case for why it erodes representation anyway is just as direct: in practice, that override vote almost never happens. Not once in 2021, across three separate immigration rulings and the minimum-wage ruling, did a Senate majority that plainly had the votes actually hold the recorded roll call to overrule MacDonough. Not once in the 2026 pressure campaign against her has a vote to remove or overrule her come to the floor, as of this writing. When a majority consistently has the power to act and consistently chooses not to use it, the formal availability of that power stops doing much work. What the voters actually got, both times, was a policy their elected majority wanted, killed by a person they never voted for — with the elected majority's own inaction as the reason the override never came.
 
 Neither reading is wrong. They're describing two different things: what the Constitution formally permits, and what elected majorities actually do with the permission they have. The office passes the first test. Whether it passes the second is a decision Congress remakes every time a ruling comes down and nobody calls the vote.
+
+## Grading the office
+
+The 58 at the top of this piece is not an average of anything, and it is not a grade on any individual officeholder — that comes next. It is the journal's editorial judgment of the office's *design*, broken into the four questions this piece has actually documented above. Same 0–100 scale as every Capitol Audit entry: 85+ is a strong design with no red flags, 65–84 is solid with real but limited questions, 45–64 is mixed — genuine structural gaps alongside a genuine working check, 25–44 is a weak design with major concerns, under 25 is functionally unaccountable.
+
+<div class="scorecard" markdown="0">
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--low">30</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">1</span><h3 class="scorecard__title">Constitutional or statutory basis</h3><span class="scorecard__band">Design criterion</span></div>
+<div class="scorecard__meter scorecard__meter--low"><span style="width:30%"></span></div>
+<p class="scorecard__judgment">Neither office appears in the Constitution and no statute created either one — both are pure chamber custom, formalized decades after they first existed informally. That's not disqualifying on its own (Article I, Section 5 explicitly lets each chamber "determine the Rules of its Proceedings"), but it means the office has zero textual anchor of its own to fall back on if a chamber ever decided to gut it.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">55</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">2</span><h3 class="scorecard__title">Appointment &amp; qualification standard</h3><span class="scorecard__band">Design criterion</span></div>
+<div class="scorecard__meter"><span style="width:55%"></span></div>
+<p class="scorecard__judgment">No statute mandates a law degree, bar admission, or procedural certification for either post. What exists instead is an informal but consistent practice: recent officeholders in both chambers have risen through the office itself, promoted from deputy parliamentarian rather than brought in from outside. That's a real, working norm — just not one written down anywhere a future leader would be bound to follow.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade">45</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">3</span><h3 class="scorecard__title">Protection from at-will removal</h3><span class="scorecard__band">Design criterion</span></div>
+<div class="scorecard__meter"><span style="width:45%"></span></div>
+<p class="scorecard__judgment">None, formally — both officeholders serve entirely at the pleasure of one person. In practice the norm of continuity has mostly held: only one parliamentarian has ever been fired specifically over a ruling in the last 50 years (Robert Dove, by Trent Lott, May 2001). But "mostly held as a norm" is a different thing than "protected by a rule," and the active 2026 pressure campaign against Elizabeth MacDonough is a live test of exactly that distinction as of this writing.</p>
+</div>
+</div>
+
+<div class="scorecard__row">
+<div class="scorecard__grade scorecard__grade--high">100</div>
+<div class="scorecard__body">
+<div class="scorecard__head"><span class="scorecard__num">4</span><h3 class="scorecard__title">A working check on the office's power</h3><span class="scorecard__band">Design criterion</span></div>
+<div class="scorecard__meter scorecard__meter--high"><span style="width:100%"></span></div>
+<p class="scorecard__judgment">This is the one place the design is unambiguous and strong: every ruling is advice, not law. The presiding officer isn't bound to follow it, and the full chamber can overrule it outright by simple majority vote at any time, on any ruling, with no supermajority and no waiting period required. The check fully exists. Whether elected majorities actually use it is a separate question, taken up below.</p>
+</div>
+</div>
+
+<div class="scorecard__final">
+<div class="scorecard__final-grade">58<span class="scorecard__final-out"> / 100</span></div>
+<div class="scorecard__final-label">The office's design, graded against the Constitution</div>
+<div class="scorecard__final-rule"></div>
+</div>
+
+</div>
+
+The office lands at 58 for the same reason a car with one excellent brake and three worn tires still gets driven every day: the one part that actually matters most when something goes wrong — the override — works completely. Everything around it is optional by design, held together by norm rather than rule, and norms are exactly the kind of thing a single ruling in 2001, and a live pressure campaign in 2026, can test.
 
 ## Grading the officeholders
 
