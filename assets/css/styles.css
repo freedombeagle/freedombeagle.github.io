@@ -615,6 +615,205 @@ img { max-width: 100%; display: block; }
   margin: 0 0 18px;
 }
 
+/* ---- Congress Explained: org chart ---- */
+.orgchart, .billflow, .glossary, .glossary__jump {
+  max-width: none;
+}
+.orgchart {
+  margin: 40px 0 56px;
+}
+.orgchart__branch {
+  text-align: center;
+  padding: 18px 20px;
+  border: 2px solid var(--ink);
+  background: var(--panel);
+  max-width: 420px;
+  margin: 0 auto 0;
+}
+.orgchart__branch-title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 22px;
+  margin: 0 0 4px;
+}
+.orgchart__branch-desc {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: .04em;
+  color: var(--ink-soft);
+  margin: 0;
+}
+.orgchart__trunk {
+  width: 2px;
+  height: 28px;
+  background: var(--rule);
+  margin: 0 auto;
+}
+.orgchart__chambers {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 32px;
+  position: relative;
+}
+@media (max-width: 640px) {
+  .orgchart__chambers { grid-template-columns: 1fr; gap: 48px; }
+}
+.orgchart__chamber {
+  border-top: 3px solid var(--stamp);
+  padding-top: 20px;
+}
+.orgchart__chamber-head {
+  text-align: center;
+  margin-bottom: 20px;
+}
+.orgchart__chamber-title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 26px;
+  margin: 0 0 4px;
+}
+.orgchart__chamber-meta {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  color: var(--stamp);
+  margin: 0;
+}
+.orgchart__box {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: 14px 16px;
+  margin-bottom: 12px;
+}
+.orgchart__box:hover, .orgchart__box:focus-visible {
+  border-color: var(--stamp);
+}
+.orgchart__box--lead {
+  border-left: 4px solid var(--stamp);
+}
+.orgchart__box-title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 17px;
+  margin: 0 0 4px;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 8px;
+}
+.orgchart__box-arrow {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--stamp);
+  white-space: nowrap;
+}
+.orgchart__box-desc {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 14.5px;
+  line-height: 1.55;
+  color: var(--ink-soft);
+  margin: 0;
+}
+.orgchart__group-label {
+  font-family: 'Courier Prime', monospace;
+  font-size: 10px;
+  letter-spacing: .1em;
+  text-transform: uppercase;
+  color: var(--ink-soft);
+  margin: 22px 0 10px;
+}
+.orgchart__group-label:first-child { margin-top: 0; }
+
+/* Bill-to-law flow strip */
+.billflow {
+  margin: 44px 0 56px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: stretch;
+  gap: 0;
+  border: 1px solid var(--rule);
+}
+.billflow__step {
+  flex: 1 1 140px;
+  padding: 16px 14px;
+  border-right: 1px solid var(--rule);
+  position: relative;
+}
+.billflow__step:last-child { border-right: none; }
+.billflow__step-num {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  color: var(--stamp);
+  display: block;
+  margin-bottom: 6px;
+}
+.billflow__step-title {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 15px;
+  margin: 0 0 6px;
+  line-height: 1.2;
+}
+.billflow__step-desc {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 13px;
+  line-height: 1.5;
+  color: var(--ink-soft);
+  margin: 0;
+}
+@media (max-width: 640px) {
+  .billflow { flex-direction: column; }
+  .billflow__step { border-right: none; border-bottom: 1px solid var(--rule); }
+  .billflow__step:last-child { border-bottom: none; }
+}
+
+/* Glossary */
+.glossary { margin: 20px 0 40px; }
+.glossary__entry {
+  padding: 18px 0;
+  border-bottom: 1px solid var(--rule);
+}
+.glossary__entry:first-child { padding-top: 0; }
+.glossary__term {
+  font-family: 'Libre Caslon Display', Georgia, serif;
+  font-size: 19px;
+  margin: 0 0 6px;
+}
+.glossary__def {
+  font-family: 'Newsreader', Georgia, serif;
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink);
+  margin: 0;
+  max-width: 62ch;
+}
+.glossary__def em { font-style: italic; color: var(--ink-soft); }
+.glossary__cite {
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px;
+  letter-spacing: .04em;
+  color: var(--ink-soft);
+  margin: 6px 0 0;
+}
+.glossary__jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px 4px;
+  margin: 0 0 32px;
+  padding: 14px;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+}
+.glossary__jump a {
+  font-family: 'Courier Prime', monospace;
+  font-size: 12px;
+  color: var(--focus);
+  text-decoration: none;
+  padding: 3px 6px;
+}
+.glossary__jump a:hover { color: var(--stamp); }
+
 /* Footer */
 .site-footer {
   border-top: 1px solid var(--rule);
