@@ -9,8 +9,14 @@
       <a href="{{ '/sections/grievance-audit.html' | relative_url }}">Grievances</a>
       <a href="{{ '/sections/risk-of-rights.html' | relative_url }}">Risk</a>
       <a href="{{ '/sections/field-notes.html' | relative_url }}">Notes</a>
-      <a href="{{ '/series.html' | relative_url }}">Series</a>
+      <div class="nav-more">
+        <button type="button" class="nav-more__toggle" data-nav-toggle aria-expanded="false" aria-controls="nav-more-header">More &#9662;</button>
+        <div class="nav-more__menu" id="nav-more-header" hidden>
+          <a href="{{ '/series.html' | relative_url }}">Series</a>
+          <a href="{{ '/congress-explained.html' | relative_url }}">Congress Explained</a>
+          <a href="{{ '/search.html' | relative_url }}">Search</a>
+        </div>
+      </div>
     </nav>
-    <a class="site-header__search" href="{{ '/search.html' | relative_url }}" aria-label="Search">&#128269;</a>
   </div>
 </header>

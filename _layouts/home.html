@@ -29,8 +29,14 @@
       <a href="{{ '/sections/grievance-audit.html' | relative_url }}">Grievance Audit</a><span class="sep">/</span>
       <a href="{{ '/sections/risk-of-rights.html' | relative_url }}">Risk of Rights</a><span class="sep">/</span>
       <a href="{{ '/sections/field-notes.html' | relative_url }}">Field Notes</a><span class="sep">/</span>
-      <a href="{{ '/series.html' | relative_url }}">Series</a><span class="sep">/</span>
-      <a href="{{ '/search.html' | relative_url }}">Search</a>
+      <div class="nav-more nav-more--nameplate">
+        <button type="button" class="nav-more__toggle" data-nav-toggle aria-expanded="false" aria-controls="nav-more-home">More &#9662;</button>
+        <div class="nav-more__menu" id="nav-more-home" hidden>
+          <a href="{{ '/series.html' | relative_url }}">Series</a>
+          <a href="{{ '/congress-explained.html' | relative_url }}">Congress Explained</a>
+          <a href="{{ '/search.html' | relative_url }}">Search</a>
+        </div>
+      </div>
     </nav>
   </header>
 
@@ -47,6 +53,7 @@
   {% include footer.html %}
 </div>
 
+<script src="{{ '/assets/js/nav.js' | relative_url }}"></script>
 <script src="{{ '/assets/js/theme.js' | relative_url }}"></script>
 </body>
 </html>

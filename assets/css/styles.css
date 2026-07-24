@@ -156,6 +156,13 @@ img { max-width: 100%; display: block; }
 .nameplate__nav a:hover, .nameplate__nav a:focus-visible { color: var(--stamp); border-color: var(--stamp); }
 .nameplate__nav span.sep { color: var(--rule); padding-top: 6px; }
 .nameplate__nav a[aria-current="page"] { color: var(--stamp); border-color: var(--stamp); }
+.nameplate__nav .nav-more__toggle {
+  font-family: inherit; font-size: inherit; letter-spacing: inherit; text-transform: inherit;
+  color: var(--ink);
+  padding: 6px 16px; border-bottom: 2px solid transparent;
+}
+.nameplate__nav .nav-more__toggle:hover,
+.nameplate__nav .nav-more__toggle[aria-expanded="true"] { color: var(--stamp); border-color: var(--stamp); }
 
 /* Compact sticky header (article / section pages) */
 .site-header {
@@ -200,6 +207,40 @@ img { max-width: 100%; display: block; }
 .site-header__nav a { text-decoration: none; color: inherit; }
 .site-header__nav a:hover, .site-header__nav a[aria-current="page"] { color: var(--stamp); }
 @media (min-width: 640px) { .site-header__tag { display: inline; } }
+
+/* "More" dropdown (used in both the compact header and the homepage masthead) */
+.nav-more { position: relative; }
+.nav-more__toggle {
+  appearance: none; border: none; background: transparent;
+  font: inherit; color: inherit;
+  cursor: pointer;
+  padding: 0;
+}
+.nav-more__toggle:hover, .nav-more__toggle[aria-expanded="true"] { color: var(--stamp); }
+.nav-more__menu {
+  position: absolute;
+  top: calc(100% + 10px);
+  right: 0;
+  min-width: 190px;
+  background: var(--panel);
+  border: 1px solid var(--rule);
+  box-shadow: 0 8px 20px rgba(0,0,0,.18);
+  padding: 6px 0;
+  z-index: 20;
+  display: flex;
+  flex-direction: column;
+}
+.nav-more__menu a {
+  display: block;
+  padding: 10px 16px;
+  text-decoration: none;
+  color: var(--ink);
+  font-family: 'Courier Prime', monospace;
+  font-size: 11px; letter-spacing: .06em; text-transform: uppercase;
+  white-space: nowrap;
+}
+.nav-more__menu a:hover, .nav-more__menu a[aria-current="page"] { color: var(--stamp); background: var(--paper-dim); }
+.nav-more--nameplate .nav-more__menu { right: auto; left: 50%; transform: translateX(-50%); }
 
 /* Section label / dividers */
 .section-label {
@@ -522,16 +563,6 @@ img { max-width: 100%; display: block; }
   padding: 16px 20px;
   display: inline-block;
 }
-
-/* Header search icon */
-.site-header__search {
-  margin-left: 16px;
-  font-size: 15px;
-  text-decoration: none;
-  color: var(--ink-soft);
-  flex-shrink: 0;
-}
-.site-header__search:hover { color: var(--stamp); }
 
 /* Search page */
 .search-box { margin-bottom: 32px; }
