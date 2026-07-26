@@ -3,9 +3,9 @@ backend:
   repo: freedombeagle/freedombeagle.github.io
   branch: main
 
-site_url: https://freedombeagle.github.io
-display_url: https://freedombeagle.github.io
-logo_url: https://freedombeagle.github.io/assets/img/freedom-beagle-logo.png
+site_url: https://freedombeagle.us
+display_url: https://freedombeagle.us
+logo_url: https://freedombeagle.us/assets/img/freedom-beagle-logo.png
 
 media_folder: assets/img/uploads
 public_folder: /assets/img/uploads

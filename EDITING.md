@@ -2,7 +2,7 @@
 
 ## The newsroom (easiest way — use this)
 
-**Where:** https://freedombeagle.github.io/admin/
+**Where:** https://freedombeagle.us/admin/
 
 **One-time setup (about 2 minutes):**
 1. Go to https://github.com/settings/personal-access-tokens/new (sign in as Jagar05 if asked)
