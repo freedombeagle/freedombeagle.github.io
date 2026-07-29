@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 63
 dek: "Nine people run the floor of Congress. Same yardstick for all of them, no matter the party: how often they show up, how many bills they actually get signed into law, who funds them, and what — if anything — sits on their record. This is the first entry in a new series grading individual members of Congress, starting at the top."
+cover: article-cover-capitol-audit.png
 ---
 
 *Nine names run the House and Senate floors: the Speaker, the two chamber leaders, and the four whips who count votes for each party, plus their Senate counterparts. This audit holds all nine to one yardstick — floor attendance, bills personally sponsored that became law, the industries funding their campaigns, and anything on the public record — no matter which party they answer to. Reporting on documents, not legal advice.*

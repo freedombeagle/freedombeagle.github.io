@@ -3,6 +3,35 @@
 <head>
 <title>{{ page.title }} — {{ site.title }}</title>
 <meta name="description" content="{{ page.dek | strip_html | strip_newlines | truncate: 155 }}">
+
+{%- comment -%}
+  Social share image. Uses page.cover if set, otherwise falls back to the
+  section-level cover, then the site logo. Keeps Facebook/X/LinkedIn previews
+  carrying the right social-kit art without per-platform manual upload.
+{%- endcomment -%}
+{%- if page.cover -%}
+  {%- assign share_img = page.cover -%}
+{%- elsif page.section == 'Grievance Audit' -%}
+  {%- assign share_img = 'article-cover-grievance-audit.png' -%}
+{%- elsif page.section == 'Risk of Rights' -%}
+  {%- assign share_img = 'article-cover-risk-of-rights.png' -%}
+{%- else -%}
+  {%- assign share_img = 'article-cover-on-the-scent.png' -%}
+{%- endif -%}
+{%- capture share_url -%}{{ '/assets/social/' | append: share_img | absolute_url }}{%- endcapture -%}
+
+<meta property="og:type" content="article">
+<meta property="og:site_name" content="{{ site.title }}">
+<meta property="og:title" content="{{ page.title | strip_html }}">
+<meta property="og:description" content="{{ page.dek | strip_html | strip_newlines | truncate: 200 }}">
+<meta property="og:url" content="{{ page.url | absolute_url }}">
+<meta property="og:image" content="{{ share_url }}">
+<meta property="og:image:width" content="1500">
+<meta property="og:image:height" content="600">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="{{ page.title | strip_html }}">
+<meta name="twitter:description" content="{{ page.dek | strip_html | strip_newlines | truncate: 200 }}">
+<meta name="twitter:image" content="{{ share_url }}">
 {% include head.html %}
 </head>
 <body>

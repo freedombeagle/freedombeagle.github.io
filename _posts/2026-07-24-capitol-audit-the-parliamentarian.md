@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 58
 dek: "No one elects the Senate Parliamentarian. No one elects the House Parliamentarian. Both can be fired without cause by a single person, and one ruling from either desk can strip a policy out of a bill that a majority of Congress already voted to pass. We rate the office against Article I — then grade all nine people who've actually held the job over the last 50 years."
+cover: article-cover-capitol-audit-parliamentarian.png
 ---
 
 *This is the second entry in the Capitol Audit series, which began with a scorecard grading Congress's leadership. This entry turns to a different kind of subject: not a person, but an office — the parliamentarian — and whether the way that office is filled, fired, and used lines up with the Constitution it operates under. It closes with two scorecards: one grading the office's design, one grading the nine people who've actually run it.*

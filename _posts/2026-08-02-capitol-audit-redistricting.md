@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 49
 dek: "Congress has the constitutional power to override any state's district maps and never uses it. The courts refuse to police one entire category of gerrymander. And nothing in the document stops a state from redrawing its maps mid-decade for naked partisan advantage — which is exactly what Texas and California are doing to each other right now."
+cover: article-cover-capitol-audit-redistricting.png
 ---
 
 *Every ten years, district lines get redrawn to match the census — and for two years running now, several states have been redrawing them again, mid-decade, for no reason but political advantage. This audit grades the constitutional design governing how congressional districts get drawn: who has the power, what checks exist, and which ones the courts have simply declined to enforce. Same method as the Senate and House entries — one design feature at a time, scored 0–100, every measurement cited. Reporting on documents, not legal advice.*

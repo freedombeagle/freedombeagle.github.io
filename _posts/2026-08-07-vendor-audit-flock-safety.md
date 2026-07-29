@@ -5,6 +5,7 @@ section: On the Scent
 series: vendor-audit
 grade: 43
 dek: "Every ALPR company publishes privacy assurances. Almost nobody checks them against the same company's product pages and legal policies. This is the first entry in a new series that does — starting with the largest vendor, using nothing but documents the company published itself."
+cover: article-cover-vendor-audit-flock-safety.png
 ---
 
 *This journal has graded chambers, offices, and officeholders against the Constitution. This entry opens a new series applying the same method to the private vendors that now supply public-safety infrastructure — because a camera network governed by a contract rather than a statute is still governing, and the terms are still checkable. The subject is Flock Safety, the largest deployer of automated license plate readers in the United States. The yardstick is not whether the technology should exist; that question belongs to voters and courts. The yardstick is narrower and entirely verifiable: **does what the company tells the public match what the company tells its customers and writes into its own legal policies?** Eight disclosure areas, scored 0–100, every measurement sourced to a Flock-published page. Reporting on documents, not legal advice.*

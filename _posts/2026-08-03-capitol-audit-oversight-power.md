@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 32
 dek: "Congress can subpoena almost anyone. Making them actually show up is a different story. Since 2008, the House has voted ten different people in criminal contempt of Congress — the Justice Department sought indictment against exactly two of them, and as of this year, both of those convictions have been abandoned by the same DOJ that won them."
+cover: article-cover-capitol-audit-oversight-power.png
 ---
 
 *Congress's power to investigate the executive branch is one of the oldest tools in its kit — and one of the weakest in practice. This audit grades the actual machinery of congressional oversight: the subpoena power itself, the two paths to enforce it, and the privilege doctrine that increasingly blocks it. Same method as every institutional entry in this series — one design feature at a time, scored 0–100, every measurement cited. Reporting on documents, not legal advice.*

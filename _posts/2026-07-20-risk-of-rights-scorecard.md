@@ -4,6 +4,7 @@ date: 2026-07-20 11:00:00
 section: Risk of Rights
 grade: 56
 dek: "Across ten entries, The Risk of Rights held each amendment of the Bill of Rights against the 2026 record — 1791's promise versus today's practice. This is the tally: a transparent 0–100 grade for every amendment, averaged into a single number for the Bill of Rights as a whole."
+cover: article-cover-risk-of-rights.png
 ---
 
 *Over ten entries, [The Risk of Rights](/freedom-beagle/sections/risk-of-rights.html) audited the Bill of Rights one amendment at a time — what each was written to protect in 1791, and how much of that protection survives in 2026. This is the scorecard, built on the same method as [the Grievance Audit's](/freedom-beagle/articles/grievance-audit-scorecard.html). Reporting on documents, not legal advice.*

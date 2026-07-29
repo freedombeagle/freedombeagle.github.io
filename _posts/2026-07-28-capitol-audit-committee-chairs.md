@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 64
 dek: "Nine committees run the real business of Congress — spending, taxes, judiciary, armed services, the House floor calendar itself. This audit grades the nine chairs sitting atop them by the same yardstick as the leadership piece: attendance, bills personally sponsored that became law, who funds them, and what sits on the record."
+cover: article-cover-capitol-audit-committee-chairs.png
 ---
 
 *Committee chairs, not party leaders, are where a bill actually lives or dies — gaveling hearings, writing the text, deciding whether something gets a floor vote at all. This audit holds the chairs of the House and Senate's five most consequential committees — Appropriations, Judiciary, Rules, Ways and Means/Finance, and Armed Services — to the same yardstick as the leadership audit: floor attendance, bills personally sponsored that became law, the industries funding their campaigns, and anything on the public record. Reporting on documents, not legal advice.*

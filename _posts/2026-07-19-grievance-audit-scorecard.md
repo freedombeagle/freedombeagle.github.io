@@ -4,6 +4,7 @@ date: 2026-07-19 21:00:00
 section: Grievance Audit
 grade: 54
 dek: "Across fourteen entries, The Grievance Audit held the modern federal record against all twenty-seven grievances of the Declaration of Independence. This is the tally — where the record lands, and a transparent 0–100 grade for each, averaged into a single number for the republic as a whole."
+cover: article-cover-grievance-audit.png
 ---
 
 *Over fourteen entries, [The Grievance Audit](/freedom-beagle/sections/grievance-audit.html) held the modern federal government against the twenty-seven grievances the Declaration of Independence leveled at King George III in 1776 — one grievance (or cluster) at a time, each quoted, cited, and checked against the record. This is the scorecard. First the qualitative tally, then the numbers. Reporting on documents, not legal advice.*

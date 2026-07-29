@@ -4,6 +4,7 @@ date: 2026-07-30
 section: On the Scent
 series: flock-cameras
 dek: "Six months ago we said we'd follow the Fourth Circuit appeal and any state legislation that landed. Here's where both stand: the appeal is fully briefed and going nowhere fast, one state's ICE-data law has no audit trail to prove it's working, and the toughest bill on the table died on the floor."
+cover: article-cover-flock-cameras-followup.png
 ---
 
 Back in July, this series ended with a promise: track the Fourth Circuit appeal in *Schmidt v. Norfolk*, and track whatever state legislation landed on ICE access to license-plate data. Half a year later, both storylines have moved — just not toward resolution.

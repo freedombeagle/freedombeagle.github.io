@@ -3,6 +3,7 @@ title: The Rule That Isn't a Rule. How 41 Senators Run the Whole Chamber.
 date: 2026-07-29
 section: Field Notes
 dek: The filibuster isn't in the Constitution, isn't a law, and technically doesn't even require anyone to talk anymore. It's a Senate custom that quietly became the reason almost nothing passes with fewer than 60 votes — and the reason reconciliation, and the Parliamentarian who polices it, matter as much as they do.
+cover: article-cover-senate-filibuster-cloture-explainer.png
 ---
 
 Quick question. How many senators does it take to kill a bill that a 51-vote majority supports?

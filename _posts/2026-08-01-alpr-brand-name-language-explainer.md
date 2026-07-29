@@ -3,6 +3,7 @@ title: "Flock Is a Brand Name. The Cameras Are the Problem."
 date: 2026-08-01
 section: Field Notes
 dek: Denver "got rid of" its Flock cameras and replaced them with a different vendor's cameras that do the same thing. That's not a loophole — it's the whole history of how privacy law keeps losing to whatever the last court called the technology in front of it.
+cover: article-cover-alpr-brand-name-language-explainer.png
 ---
 
 Denver pulled all 110 of its Flock Safety cameras when its contract lapsed in March 2026. Local coverage, including [this journal's own reporting](/articles/flock-cameras-followup-appeal-and-laws.html), called it a city "ripping out Flock's cameras." What actually happened: Denver signed with a different vendor and kept running an automated license plate reader network. The surveillance didn't stop. The brand name did.

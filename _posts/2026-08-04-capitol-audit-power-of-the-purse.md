@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 31
 dek: "No money leaves the Treasury without a law Congress wrote. That part of Article I still holds absolutely — the Supreme Court struck down the one tool a president ever had to unilaterally cut appropriated spending. Everything upstream of that, how Congress actually writes the law in the first place, is where the design has come apart: zero fiscal years with all twelve spending bills passed on time since 1997, a 43-day shutdown last fall that's now the longest in American history, and two more shutdowns already this year."
+cover: article-cover-capitol-audit-power-of-the-purse.png
 ---
 
 *Article I, Section 9, Clause 7 is one sentence: no money leaves the federal Treasury except "in Consequence of Appropriations made by Law." It is arguably the single sharpest check the Framers gave Congress over the executive — the power to fund a policy or starve it. This audit grades how that design actually functions in 2026: the clause's legal force, the process Congress uses to exercise it, and what happens when the other branch tries to route around it. Same method as every institutional entry in this series — one design feature at a time, scored 0–100, every measurement cited. Reporting on documents, not legal advice.*

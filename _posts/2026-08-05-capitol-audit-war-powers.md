@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 29
 dek: "Congress has declared war eleven times in American history, all before 1942. Since then it has fought wars through statutes that were never rewritten to fit the wars they got used for — and this year, for the first time, an administration told Congress outright that the law limiting unauthorized war doesn't apply to what it's doing."
+cover: article-cover-capitol-audit-war-powers.png
 ---
 
 *Article I, Section 8 gives Congress, not the president, the power "To declare War." The Framers wrote it that way on purpose — Madison changed the word from "make" to "declare" specifically so the executive would keep only the power to repel a sudden attack, not start a war on its own. This audit grades six features of that design against how war actually gets made in 2026: the clause itself, the 1973 law meant to enforce it, the authorizations that have outlived their targets by two decades, the money that funds it all, the courts that won't referee it, and Congress's own recent attempts to reclaim the power on paper. Same method as every institutional entry in this series — one design feature at a time, scored 0–100, every measurement cited. Reporting on documents, not legal advice.*

@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 68
 dek: "The Senate that exists today runs on a rule the Constitution never wrote — the filibuster — while two of its actual constitutional powers, ratifying treaties and confirming nominees, have quietly become things the chamber mostly doesn't do anymore. This is the third entry in the Capitol Audit series: not a person, not an office, but the whole institution, graded clause by clause against Article I."
+cover: article-cover-capitol-audit-senate.png
 ---
 
 *The Capitol Audit began with a scorecard grading Congress's leadership, then turned to a single office, the parliamentarian. This entry turns to the institution itself: the Senate, graded the same way the Grievance Audit graded the republic against 1776 and the Risk of Rights graded the Bill of Rights against 2026 — one constitutional design feature at a time, quoted, checked against the current record, and scored.*
