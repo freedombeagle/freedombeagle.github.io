@@ -45,3 +45,5 @@ Not every state, city, or advocacy effort has been as careful. A council resolut
 - *United States v. Jones*, 565 U.S. 400 (2012): [Justia — full opinion](https://supreme.justia.com/cases/federal/us/565/400/)
 - *Carpenter v. United States*, 585 U.S. 296 (2018), including the "narrow" holding language: [Justia — full opinion](https://supreme.justia.com/cases/federal/us/585/296/)
 - California ALPR Privacy Act and the Flock class action: [this journal's coverage](/articles/flock-cameras-followup-appeal-and-laws.html)
+- What one vendor's own pages say when read against each other: [Flock's Trust Page Says the Cameras Don't Watch People. Flock's Product Page Sells People Search.](/articles/flock-website-contradictions.html)
+- The same vendor's disclosures scored area by area: [The Vendor Audit: Flock Safety](/articles/vendor-audit-flock-safety.html)
