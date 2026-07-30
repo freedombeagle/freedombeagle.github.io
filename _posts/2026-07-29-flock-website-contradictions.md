@@ -1,6 +1,6 @@
 ---
 title: "Flock's Trust Page Says the Cameras Don't Watch People. Flock's Product Page Sells People Search."
-date: 2026-08-06
+date: 2026-07-29 01:06:00
 section: On the Scent
 series: flock-cameras
 dek: "We read every public-facing page on flocksafety.com against every other page. The company's privacy assurances and its sales copy describe two different products — and the gap between them is where the marketing stops and the capability starts."

@@ -1,6 +1,6 @@
 ---
 title: "The Capitol Audit: We Graded Redistricting Against Article I. It Got a 49."
-date: 2026-08-02 10:00:00
+date: 2026-07-26 00:58:00
 section: On the Scent
 series: capitol-audit
 grade: 49

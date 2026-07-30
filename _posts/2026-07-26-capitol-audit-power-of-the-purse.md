@@ -1,6 +1,6 @@
 ---
 title: "The Capitol Audit: We Graded Congress's Power of the Purse. It Got a 31."
-date: 2026-08-04 10:00:00
+date: 2026-07-26 15:04:00
 section: On the Scent
 series: capitol-audit
 grade: 31

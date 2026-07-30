@@ -1,6 +1,6 @@
 ---
 title: "The Capitol Audit: We Graded Congress's War Powers. It Got a 29."
-date: 2026-08-05 10:00:00
+date: 2026-07-27 01:11:00
 section: On the Scent
 series: capitol-audit
 grade: 29

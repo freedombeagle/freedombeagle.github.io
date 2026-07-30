@@ -1,6 +1,6 @@
 ---
 title: "The Capitol Audit: We Graded Congress's Oversight Power. It Got a 32."
-date: 2026-08-03 10:00:00
+date: 2026-07-26 11:44:00
 section: On the Scent
 series: capitol-audit
 grade: 32

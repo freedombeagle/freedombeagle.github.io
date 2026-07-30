@@ -1,6 +1,6 @@
 ---
 title: "The Vendor Audit: We Graded Flock Safety's Public Disclosures Against Its Own Documents. It Got a 43."
-date: 2026-08-07 10:00:00
+date: 2026-07-28 16:23:00
 section: On the Scent
 series: vendor-audit
 grade: 43

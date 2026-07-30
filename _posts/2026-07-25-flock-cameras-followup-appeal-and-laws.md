@@ -1,6 +1,6 @@
 ---
 title: "The Cameras, Update: The Appeal Is Waiting, the Laws Are Unenforced, and Colorado's Bill Died"
-date: 2026-07-30
+date: 2026-07-25 21:44:00
 section: On the Scent
 series: flock-cameras
 dek: "Six months ago we said we'd follow the Fourth Circuit appeal and any state legislation that landed. Here's where both stand: the appeal is fully briefed and going nowhere fast, one state's ICE-data law has no audit trail to prove it's working, and the toughest bill on the table died on the floor."

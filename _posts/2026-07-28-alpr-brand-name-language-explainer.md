@@ -1,6 +1,6 @@
 ---
 title: "Flock Is a Brand Name. The Cameras Are the Problem."
-date: 2026-08-01
+date: 2026-07-28 16:46:00
 section: Field Notes
 dek: Denver "got rid of" its Flock cameras and replaced them with a different vendor's cameras that do the same thing. That's not a loophole — it's the whole history of how privacy law keeps losing to whatever the last court called the technology in front of it.
 cover: article-cover-alpr-brand-name-language-explainer.png

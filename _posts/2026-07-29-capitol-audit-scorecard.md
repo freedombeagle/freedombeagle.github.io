@@ -1,6 +1,6 @@
 ---
 title: "The Capitol Audit Scorecard: We Graded Congress Against Article I. It Got a 51."
-date: 2026-08-08 10:00:00
+date: 2026-07-29 20:18:00
 section: On the Scent
 series: capitol-audit
 grade: 51
