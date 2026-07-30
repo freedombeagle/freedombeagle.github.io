@@ -5,6 +5,7 @@ section: On the Scent
 series: capitol-audit
 grade: 69
 dek: "The House can do what the Senate can't — pass what it wants by simple majority, no filibuster in the way. But that power now runs through one committee the Speaker controls, a revenue clause the Senate quietly guts, and a floor so unstable it fired its own Speaker for the first time in history. This is the fourth Capitol Audit entry: the House, graded clause by clause against Article I."
+cover: article-cover-capitol-audit-the-house.png
 ---
 
 *The Capitol Audit has graded Congress's leadership, the parliamentarian's office, and the Senate as an institution. This entry is the companion to that Senate piece: the House of Representatives, held against the same Article I standard — one design feature at a time, quoted, checked against the current record, and scored. Where a feature has a direct Senate counterpart, the two grades are worth reading side by side.*
