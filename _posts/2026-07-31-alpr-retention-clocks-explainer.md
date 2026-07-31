@@ -67,7 +67,7 @@ That is a named window, an obligation inside it, and a deletion commitment after
 
 Denver's March 2026 vendor switch, which [this journal covered](/articles/flock-cameras-followup-appeal-and-laws.html), is the case that makes this concrete: a department that changes suppliers has years of accumulated reads sitting in a system it is walking away from. Whether that archive is exported, deleted, or simply left is governed by this fourth clock — and in three of the four document sets read for the Vendor Audit, it is not governed by anything published.
 
-## Two words that carry more weight than they look
+## Two phrases that carry more weight than they look
 
 **"Automatic."** Flock's pages say deletion is automatic, and the thirty-day default does appear to run on its own. But the word is doing work across the whole sector, and what it usually means is *the timer runs without human intervention* — not *nothing survives it*. Investigative holds, extended-retention settings, metadata archives, and audit logs all sit outside the timer at one vendor or another, each disclosed somewhere, none of them disclosed on the page where "automatic" appears.
 
