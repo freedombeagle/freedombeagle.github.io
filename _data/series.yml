@@ -20,7 +20,7 @@ series:
     description: "License-plate-reader networks, the Fourth Amendment, and the court cases testing where the line is."
   - name: "The Capitol Audit"
     slug: capitol-audit
-    status: active
+    status: complete
     description: "Congress, graded — its leaders, its offices, and the institutions that run it, held against the Constitution and the numbers."
   - name: "The Vendor Audit"
     slug: vendor-audit
