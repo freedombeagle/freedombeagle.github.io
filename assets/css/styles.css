@@ -525,10 +525,8 @@ img { max-width: 100%; display: block; }
   background: var(--stamp);
   margin: 18px auto 0;
 }
-@media (max-width: 480px) {
-  .scorecard__row { grid-template-columns: 64px 1fr; gap: 16px; }
-  .scorecard__grade { width: 64px; height: 64px; font-size: 34px; }
-}
+/* Narrow-screen scorecard sizing lives in the ≤640px block at the end
+   of this file, where the row stacks instead of staying two-column. */
 .article__sources {
   margin-top: 48px;
   padding-top: 24px;
@@ -863,4 +861,59 @@ img { max-width: 100%; display: block; }
 
 @media (prefers-reduced-motion: no-preference) {
   body { transition: background .2s ease, color .2s ease; }
+}
+
+/* ---------------------------------------------------------------
+   Mobile layout fixes (≤640px)
+
+   Article pages were overflowing horizontally by ~264px on a 375px
+   viewport, which made the whole page scroll sideways. Two causes:
+
+   1. .scorecard__band carried `white-space: nowrap`. The band labels
+      started as short tags but are now full descriptive phrases, so
+      the un-wrappable text blew out the grid track it sits in.
+   2. Grid items default to `min-width: auto`, so .scorecard__body
+      could not shrink below its widest content and pushed the row
+      past the viewport.
+
+   The header nav also sat on one row with the crest and wordmark and
+   ran past the right edge, colliding with the fixed theme toggle.
+   --------------------------------------------------------------- */
+
+/* Lets the body column actually shrink inside the scorecard grid. */
+.scorecard__body { min-width: 0; }
+
+@media (max-width: 640px) {
+  /* Header: wordmark on its own row, sections centred beneath it. */
+  .site-header__bar { flex-wrap: wrap; padding: 10px 16px; gap: 8px; }
+  .site-header__word { font-size: 20px; }
+  .site-header__nav {
+    width: 100%;
+    margin-left: 0;
+    justify-content: space-between;
+    flex-wrap: nowrap;
+    gap: 10px;
+    font-size: 10px;
+    padding-top: 6px;
+    border-top: 1px solid var(--rule);
+  }
+
+  /* Keeps the fixed toggle clear of the wordmark on narrow screens. */
+  .theme-toggle { top: 10px; right: 10px; font-size: 10px; }
+  .theme-toggle button { padding: 5px 9px; }
+
+  /* Scorecard stacks: grade above, judgment full-bleed and readable. */
+  .scorecard__row { grid-template-columns: 1fr; gap: 14px; padding: 24px 0; }
+  .scorecard__grade { width: 60px; height: 60px; font-size: 32px; }
+  .scorecard__title { font-size: 21px; }
+  .scorecard__band { white-space: normal; }
+
+  /* Masthead dateline sat on two cramped lines. */
+  .nameplate__eyebrow {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 2px 14px;
+    text-align: center;
+  }
+  .nameplate__eyebrow > * { white-space: nowrap; }
 }
