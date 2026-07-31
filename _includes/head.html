@@ -4,4 +4,9 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Libre+Caslon+Display&family=Newsreader:ital,wght@0,400;0,500;0,600;1,400;1,500&family=Courier+Prime:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
-<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
+{%- comment -%}
+  The ?v= stamp changes on every build so returning readers pick up CSS
+  changes immediately. Without it browsers hold the cached stylesheet and
+  layout fixes appear not to have shipped.
+{%- endcomment -%}
+<link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}?v={{ site.time | date: '%Y%m%d%H%M%S' }}">
