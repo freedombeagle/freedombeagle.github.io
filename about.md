@@ -38,7 +38,7 @@ We will make mistakes. When a journal's entire value rests on being right, the h
 - **When we learn of a material error, we correct it promptly** and note the correction, with its date, at the bottom of the affected article.
 - **Substantive corrections are also logged below,** permanently, so the record of what we got wrong and when we fixed it is public.
 - **Figures drawn from live, crowdsourced, or point-in-time datasets** (for example, camera counts from DeFlock) are labeled with the date they were retrieved. These numbers change over time; a later, different figure is an update, not necessarily a correction.
-- **A public channel for reporting errors is being established** and will be posted here once it is live. We would rather show no contact address than publish one that does not yet work — the same standard we hold our reporting to.
+- **Errors can be reported to [freedom.beagle1776@gmail.com](mailto:freedom.beagle1776@gmail.com).** Every report is read. If you can name the document, ruling, or filing we got wrong, say so — that is the fastest route to a correction.
 
 ### Corrections log
 
@@ -54,6 +54,8 @@ Freedom Beagle publishes under a unified masthead. Reported pieces carry the byl
 
 ## Contact
 
-A public contact address for tips and corrections is being set up and will be posted here once it is live. Until then, this section is intentionally left without an address rather than list one that would only bounce — which is exactly the standard we hold our reporting to: nothing goes on this site that isn't real.
+Tips, corrections, and documents: **[freedom.beagle1776@gmail.com](mailto:freedom.beagle1776@gmail.com)**.
 
-If you have a story that deserves a nose on it, hold onto it. The door is opening.
+This address is read by the founder and editor. Tips are welcome with or without a name attached; if you ask for confidentiality, you have it, and nothing identifying goes in print without your say-so. What helps most is the underlying record — the filing, the ruling, the contract, the email — because that is what this journal reports from.
+
+If you have a story that deserves a nose on it, send it. The door is open.
