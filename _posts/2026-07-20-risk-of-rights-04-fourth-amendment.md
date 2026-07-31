@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 4: The Fourth Amendment — Written for Constables, Outrun by Computers."
 date: 2026-07-20 04:00:00
 section: Risk of Rights
+cover: article-cover-risk-of-rights-04-fourth-amendment.png
 grade: 40
 dek: "The Fourth Amendment protects your person, home, papers, and effects from unreasonable government search. It was written against redcoats kicking in doors — and it is being outrun by a surveillance apparatus that never has to knock: license-plate networks, phone-location data, and the doctrine that says what you share with a company, you share with the police. No. 4 in The Risk of Rights."
 ---

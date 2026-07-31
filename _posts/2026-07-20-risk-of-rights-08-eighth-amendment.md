@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 8: The Eighth Amendment — Cruel, Unusual, and Increasingly in the Eye of the Beholder."
 date: 2026-07-20 08:00:00
 section: Risk of Rights
+cover: article-cover-risk-of-rights-08-eighth-amendment.png
 grade: 50
 dek: "The Eighth Amendment bars excessive bail, excessive fines, and cruel and unusual punishment. Its excessive-fines clause just got a landmark win. Its cruel-and-unusual clause just got narrowed against the homeless. And 'excessive bail' still means little to a person too poor to post any. A right whose meaning keeps moving. No. 8 in The Risk of Rights."
 ---

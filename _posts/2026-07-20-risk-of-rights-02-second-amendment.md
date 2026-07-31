@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 2: The Second Amendment — The Right That Grew While the Others Shrank."
 date: 2026-07-20 02:00:00
 section: Risk of Rights
+cover: article-cover-risk-of-rights-02-second-amendment.png
 grade: 80
 dek: "Of the ten amendments in the Bill of Rights, the Second is the one whose protection has expanded most in the last twenty years — from a contested collective theory to an individual right the Supreme Court now guards with a demanding new test. Whatever your politics, the audit's finding is the same: this right is ascendant. Entry No. 2 in The Risk of Rights."
 ---

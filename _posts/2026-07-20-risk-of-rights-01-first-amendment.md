@@ -2,6 +2,7 @@
 title: "Risk of Rights No. 1: The First Amendment — The Strongest Right We Have, in the Weakest Position It's Been In."
 date: 2026-07-20 01:00:00
 section: Risk of Rights
+cover: article-cover-risk-of-rights-01-first-amendment.png
 grade: 70
 dek: "The First Amendment protects speech, press, religion, assembly, and petition — and in doctrine it is the most muscular free-speech guarantee on Earth. But most speech now happens on private platforms the amendment doesn't reach, the press it protects is going broke, and the government keeps testing how hard it can lean. First entry in The Risk of Rights."
 ---
