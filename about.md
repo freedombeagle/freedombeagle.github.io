@@ -46,7 +46,11 @@ We will make mistakes. When a journal's entire value rests on being right, the h
 
 ## Independence and funding
 
-Freedom Beagle is independently owned and operated. It carries no advertising, answers to no political party, campaign, corporation, or donor, and has no outside owner directing its coverage. It is not funded by any organization named in its reporting. If that ever changes — if the journal takes on funding of any kind — this section will disclose it before a single dollar shapes a story.
+Freedom Beagle is independently owned and operated. It carries no advertising, answers to no political party, campaign, corporation, or donor, and has no outside owner directing its coverage. It is not funded by any organization named in its reporting.
+
+**The journal is funded by its own store.** Freedom Beagle sells printed goods — shirts, prints, and objects set in the journal's own typography — and that is the only revenue it takes. No advertiser, sponsor, grant, or donor sits behind any of it. The store carries no editorial weight: no story is chosen, shaped, softened, or dropped because of what it might do to sales, and nothing sold there is a product this journal has reported on or ever will report on.
+
+If that ever changes — if the journal takes on funding of any other kind — this section will disclose it before a single dollar shapes a story.
 
 ## Bylines
 
@@ -59,3 +63,9 @@ Tips, corrections, and documents: **[freedom.beagle1776@gmail.com](mailto:freedo
 This address is read by the founder and editor. Tips are welcome with or without a name attached; if you ask for confidentiality, you have it, and nothing identifying goes in print without your say-so. What helps most is the underlying record — the filing, the ruling, the contract, the email — because that is what this journal reports from.
 
 If you have a story that deserves a nose on it, send it. The door is open.
+
+## Elsewhere
+
+- **Newsletter:** [freedombeagle.substack.com](https://freedombeagle.substack.com)
+- **X:** [@BeagleJones1776](https://x.com/BeagleJones1776)
+- **Store:** [freedombeagle.myshopify.com](https://freedombeagle.myshopify.com) — printed goods, and the journal's only source of revenue
