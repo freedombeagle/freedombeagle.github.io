@@ -24,5 +24,5 @@ series:
     description: "Congress, graded — its leaders, its offices, and the institutions that run it, held against the Constitution and the numbers."
   - name: "The Vendor Audit"
     slug: vendor-audit
-    status: active
+    status: complete
     description: "The private companies selling public-safety surveillance, graded on one question: does what they tell the public match what they write in their own product pages and legal policies."
