@@ -48,7 +48,7 @@ Georgia Power disputes the framing that this is *for* data centers rather than t
 
 The same pattern — a regulated utility condemning private land for transmission lines primarily justified by data center demand — is showing up in at least four other states:
 
-- **Virginia**: Dominion Energy's "Greenway to Mars" transmission project includes a planned 185-foot power pole on residential property near Ashburn.
+- **Virginia**: Dominion Energy's "Golden to Mars" transmission project includes planned 185-foot towers on residential property near Ashburn.
 - **Pennsylvania**: PPL Electric Utilities is condemning land across Union and Lycoming counties for a line proposed to serve a data center at Great Stream Commons in Allenwood.
 - **Maryland**: The Public Service Enterprise Group's Maryland Piedmont Reliability Project — a 67-mile line across Baltimore, Frederick, and Carroll counties — has drawn landowner signs reading "No eminent domain for corporate gain."
 - **Indiana**: AES Indiana is condemning land for a 10-mile, 345-kilovolt line in Morgan County tied to a Google data center planned near Monrovia.
